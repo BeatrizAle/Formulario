@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-shadow: 0;
+}
+.tittle h1{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.tittle p{
+    text-align: center;
+    color: gray;
+}
+
+form{
+    margin-left: 500px;
+}
+
+.name{
+    width: 400px;
+
+    margin-top: 20px;
+    border-radius: 10px;
+   }
+
+.email{
+    margin-top: 20px;
+    
+}
+
+.tipos{
+    margin-top: 20px;
+}
+
+.senioridade{
+    margin-top: 20px;
+}
+
+.tecnologias{
+    margin-top: 20px;
+    width: 400px;
+    border-radius: 10px;
+}
